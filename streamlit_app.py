@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.markdown("#Test app")
+st.markdown("# Test app")
